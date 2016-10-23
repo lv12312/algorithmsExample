@@ -1,2 +1,2 @@
 # algorithmsExample
-Algorithms 4th edtion example code.
+Algorithms Fourth edition example code.
